@@ -1,5 +1,5 @@
 ### Eae, pessoal ! 😁
-  👉 Meu nome é Vinícius e tenho 30 anos. Sou formado em Administração e Gestão Financeira. 
+  👉 Meu nome é Vinícius e tenho 30 anos. 
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas 😎 
 - 🔭 Ultimamente tenho focado em projetos da faculdade usando Phyton ...
 - 📝 Atualmente tenho estudado Phyton .. Mas estou paralelamente tentando continuar aprendendo coisas novas de CSS e JavaScript ...
