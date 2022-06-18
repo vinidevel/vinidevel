@@ -1,8 +1,7 @@
 ### Eae, pessoal ! 😁
-  👉 Meu nome é Vinícius e tenho 30 anos. 
-  Atualmente estou cursando Análise e Desenvolvimento de Sistemas 😎 
-- 🔭 Ultimamente tenho focado em projetos da faculdade usando Phyton ...
-- 📝 Atualmente tenho estudado Phyton .. Mas estou paralelamente tentando continuar aprendendo coisas novas de CSS e JavaScript ...
+  👉 Meu nome é Vinícius e tenho 31 anos. 
+  Atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
+- 📝 Atualmente tenho estudado Phyton para criar um banco de dados e paralelamente Javascript, CSS e HTML.
 <div align="center">
   <a href="https://github.com/vinidevel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidevel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
