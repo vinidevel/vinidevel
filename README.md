@@ -1,7 +1,7 @@
 ### Eae, pessoal ! 😁
   👉 Meu nome é Vinícius e tenho 31 anos. 
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
-- 📝 Atualmente tenho estudado PHP e paralelamente  Javascript, CSS e HTML.
+- 📝 Tenho estudado PHP e paralelamente  Javascript, CSS e HTML.
 - Trabalho como Desenvolvedor Junior na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando o Framework Laravel.
 <div align="center">
   <a href="https://github.com/vinidevel">
@@ -16,6 +16,7 @@
   <img align="center" alt="Vini-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vini-Php" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Vini-Php" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" alt="Vini-Php" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 
 </div>
