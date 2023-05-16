@@ -1,8 +1,8 @@
 ### Eae, pessoal ! 😁
   👉 Meu nome é Vinícius e tenho 31 anos. 
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
-- 📝 Tenho estudado PHP e paralelamente  Javascript, CSS e HTML.
-- Trabalho como Desenvolvedor Junior na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando o Framework Laravel.
+- 📝 Tenho estudado PHP e o framework Laravel.
+- Trabalho como Desenvolvedor Junior na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando PHP, Framework Laravel e Bootstrap.
 <div align="center">
   <a href="https://github.com/vinidevel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidevel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
