@@ -1,5 +1,5 @@
 ### Eae, pessoal ! 😁
-  👉 Meu nome é Vinícius e tenho 31 anos. 
+  👉 Meu nome é Vinícius e tenho 32 anos. 
   Atualmente estou cursando Análise e Desenvolvimento de Sistemas. 
 - 📝 Tenho estudado PHP e o framework Laravel.
 - Trabalho como Desenvolvedor Junior na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando PHP, Framework Laravel e Bootstrap.
