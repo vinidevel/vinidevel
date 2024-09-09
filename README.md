@@ -3,11 +3,15 @@
  Sou formado em Análise e Desenvolvimento de Sistemas. 
 - 📝 Tenho me aprofundado em PHP e no framework Laravel.
 - Trabalho como Desenvolvedor de sistemas e sites web na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando PHP com Framework Laravel e Bootstrap.
+
+### 📊Minhas estatísticas
+
 <div align="center">
-  <a href="https://github.com/vinidevel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidevel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidevel&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true&username=vinidevel" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=monokai&hide_border=true&username=vinidevel" height="130" alt="languages graph"  />
 </div>
+
+<br>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
