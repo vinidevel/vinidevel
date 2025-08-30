@@ -1,8 +1,8 @@
 ### Eae, pessoal ! 😁
-  👉 Meu nome é Vinícius e tenho 33 anos. 
+  👉 Meu nome é Vinícius Cavalcanti. 
  Sou formado em Análise e Desenvolvimento de Sistemas. 
 - 📝 Tenho me aprofundado em PHP e no framework Laravel.
-- Trabalho como Desenvolvedor de sistemas e sites web na Fundação Nacional das Artes desenvolvendo aplicações do zero utilizando PHP com Framework Laravel e Bootstrap.
+- Trabalho como Desenvolvedor de sistemas e sites web desenvolvendo aplicações do zero utilizando PHP com Framework Laravel, Bootstrap e Tailwind.
 
 ### 📊Minhas estatísticas
 
